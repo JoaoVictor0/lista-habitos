@@ -1,5 +1,4 @@
 <?php 
-
     //Obtém a lista de hábitos do banco de dados MySql
 
     $servidor = "localhost";
